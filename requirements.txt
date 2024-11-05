@@ -1,0 +1,13 @@
+# Core dependencies
+selenium>=4.0.0
+requests>=2.26.0
+gpiozero>=1.6.2
+
+# Selenium WebDriver
+webdriver-manager>=3.8.0
+
+# GPIO and Hardware
+RPi.GPIO>=0.7.0  # Required by gpiozero
+
+# Utility
+python-dotenv>=0.19.0  # For loading environment variables if needed

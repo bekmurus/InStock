@@ -1,0 +1,6 @@
+# <URL>|<MARKER>|<LED>
+# LED colors: red=1, green=2, blue=3
+https://www.alza.cz/EN/graphics-cards-nvidia-geforce-rtx3080/18881467.htm|canBuy|2
+https://www.alza.cz/EN/amd-rdna-2-graphics-cards/18884220.htm|canBuy|1
+https://www.amd.com/en/direct-buy/5458374100/cz|Add to cart|1
+https://www.amd.com/en/direct-buy/5458374200/cz|Add to cart|1
